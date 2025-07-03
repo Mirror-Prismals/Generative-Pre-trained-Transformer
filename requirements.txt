@@ -1,0 +1,4 @@
+# only what the base image doesn’t ship with
+sentencepiece==0.1.99
+tqdm>=4.66
+numpy>=1.26
